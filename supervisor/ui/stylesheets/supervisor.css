@@ -78,7 +78,7 @@ html, body {
   min-height: 100%;
   height: auto !important;
   height: 100%;
-  width: 850px;
+  width: 1000px;
   margin: 0 auto -31px;
 }
 #footer,
@@ -198,7 +198,7 @@ tr.shade td {
 }
 
 #footer {
-  width: 760px;
+  width: 978px;
   margin: 0 auto;
   padding: 0 10px;
   line-height: 30px;
